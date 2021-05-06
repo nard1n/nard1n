@@ -1,5 +1,5 @@
 
-<img src='images/github-banner.png' width="700">
+<img src='images/github-banner.png' width="780">
 
 - 🔭 I’m currently working on: [Takeoff](https://github.com/nard1n/Takeoff)
 - 🌱 I’m currently learning: Python
