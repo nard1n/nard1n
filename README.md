@@ -2,7 +2,7 @@
 <img src='images/github-banner.png' width="780">
 
 * 🌍  I'm based in Boston, MA
-* 📫  You can contact me at [nardin.lachowski@gmail.com](mailto:nardin.lachowski@gmail.com)
+* 📫  You can contact me at [nardincodes@gmail.com](mailto:nardincodes@gmail.com)
 * 🚀  I'm currently working on multiple small projects
 * 🤝  I'm open to collaborating on something interesting
 * 💫  I am a self development junky and I am multilingual
